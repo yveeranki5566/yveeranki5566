@@ -12,6 +12,6 @@
   - [Analyzing Indicators of Compromise](https://github.com/yveeranki5566/Indicators-of-Compromise)</b></i>
 - <b>Implementing Security Technical Controls</b>
   - [Security Technical Controls](https://github.com/yveeranki5566/Technical-Security-Controls)</b></i>
-- <b>Implementing Remote Access Controls</b>
+- <b>Evaluating Remote Access Controls</b>
   - [Remote Access Controls](https://github.com/yveeranki5566/Remote-access-controls)</b></i>
 
