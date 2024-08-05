@@ -1,4 +1,4 @@
-<h1>Hi, I'm Yamini! Passionate self learned Cyber Security Analyst, currently pursuing Masters in Cyber Security Technology</h1>
+<h1>Hi, I'm Yamini! Passionate self learner, currently pursuing Masters in Cyber Security Technology</h1>
 
 <h2>👨‍💻Cyber Security Projects:</h2>
 
