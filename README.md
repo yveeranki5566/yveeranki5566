@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1>Hi, I'm Yamini! Passionate self learned Cyber Security Analyst, currently pursuing Masters in Cyber Security Technology</h1>
 
-<!--
-**yveeranki5566/yveeranki5566** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻Cyber Security Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Creating a Live SOC/Honey net in Azure</b>
+  - [Azure SOC](https://github.com/yveeranki5566/Azure-SOC)</b></i>
+- <b>Security Assesment of a Network</b>
+  - [Security Assessment](https://github.com/yveeranki5566/Security-Assessment)</b></i>
+- <b>Log Data Analysis</b>
+  - [Log Data Analysis](https://github.com/yveeranki5566/Data-Analysis)</b></i>
+- <b>Identifying and Analyzing IOC'S</b>
+  - [Analyzing Indicators of Compromise](https://github.com/yveeranki5566/Indicators-of-Compromise)</b></i>
+- <b>Implementing Security Technical Controls</b>
+  - [Security Technical Controls](https://github.com/yveeranki5566/Technical-Security-Controls)</b></i>
+- <b>Implementing Remote Access Controls</b>
+  - [Remote Access Controls](https://github.com/yveeranki5566/Remote-access-controls)</b></i>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
