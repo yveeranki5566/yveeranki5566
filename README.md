@@ -4,7 +4,7 @@
 
 - <b>Creating a Live SOC/Honey net in Azure</b>
   - [Azure SOC](https://github.com/yveeranki5566/Azure-SOC)</b></i>
-- <b>Vulnerability Management using OpenVAS</b>
+- <b>OpenVAS Vulnerability Management</b>
   - [Vulnerability Management using OpenVAS](https://github.com/yveeranki5566/OpenVAS)</b></i>
 - <b>Security Assesment of a Network</b>
   - [Security Assessment](https://github.com/yveeranki5566/Security-Assessment)</b></i>
