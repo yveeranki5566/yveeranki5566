@@ -22,5 +22,5 @@
 - <b>Password Manager</b>
   - [Password Manager using Encryption and Decryption](https://github.com/yveeranki5566/Password-manager)</b></i>
 - <b>VirusTotal-API-Integration</b>
-  - [Python script that uses the VirusTotal API to check the safety of a URL](https://github.com/yveeranki5566/Password-manager)</b></i>
+  - [Python script that uses the VirusTotal API to check the safety of a URL](https://github.com/yveeranki5566/VirusTotal-API-Integration)</b></i>
 
