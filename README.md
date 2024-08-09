@@ -17,6 +17,7 @@
 - <b>Evaluating Remote Access Controls</b>
   - [Remote Access Controls](https://github.com/yveeranki5566/Remote-access-controls)</b></i>
 
-<h2>👨‍💻Python Cyber Projects:</h2>
+<h3>👨‍💻Python Cyber Projects:</h3>
+
 - <b>Password Manager</b>
-  - [Password manager using encrytion and decrytion](https://github.com/yveeranki5566/Password-manager)</b></i>
+  - [Password Manager using Encryption and Decryption](https://github.com/yveeranki5566/Password-manager)</b></i>
