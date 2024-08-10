@@ -6,6 +6,8 @@
   - [Azure SOC](https://github.com/yveeranki5566/Azure-SOC)</b></i>
 - <b>OpenVAS Vulnerability Management</b>
   - [Vulnerability Management using OpenVAS](https://github.com/yveeranki5566/OpenVAS)</b></i>
+- <b>Malware Email Analysis</b>
+  - [Analyzing an email containing malware](https://github.com/yveeranki5566/Malware-Email-Analysis-Phishing-)</b></i>
 - <b>Security Assesment of a Network</b>
   - [Security Assessment](https://github.com/yveeranki5566/Security-Assessment)</b></i>
 - <b>Detecting vulnerabilities using log data analysis</b>
