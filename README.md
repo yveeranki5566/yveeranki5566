@@ -18,6 +18,8 @@
   - [Security Technical Controls](https://github.com/yveeranki5566/Technical-Security-Controls)</b></i>
 - <b>Evaluating Remote Access Controls</b>
   - [Remote Access Controls](https://github.com/yveeranki5566/Remote-access-controls)</b></i>
+- <b>Web application Security</b>
+  - [Enhancing security of a web application server](https://github.com/yveeranki5566/WebApplicationSecurity)</b></i>
 
 <h3>👨‍💻Python Cyber Projects:</h3>
 
